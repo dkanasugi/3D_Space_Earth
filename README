@@ -1,0 +1,26 @@
+Visual Studio Project that requires Direct 11 Package.
+
+Multiple objects are rendered with images applied on it. 
+Skybox, a method of creating backgrounds to make the virtual space look bigger than it is. 
+
+If the cursor is on the left side of the program, the POV angle on X-Axis will be shifted to the left. 
+If the cursor is on the right side of the program, the POV angle on X-Axis will be shifted to the right. 
+
+# There are special keys in this program to be used for specific actions to occur.
+
+Arrow Keys = Move up, right, down, and left of the rainbow colored object
+
+A = Moves POV angle on X-Axis to the left
+D = Moves POV angle on X-Axis to the right
+
+W = Moves POV angle on Z-Axis to the front
+D = Moves POV angle on Z-Axis to the back 
+
+E = Moves camera angle on Y-Axis upward
+Q = Moves camera angle on Y-Axis downard
+
+J = Expands the size of the rainbow colored object
+K = Returns the expanded size of the rainbow colored object to initial size.
+
+
+
